@@ -23,9 +23,9 @@ Three types in this library:
 [News Briefing Engine](prompts/news-briefing-engine.md) runs PEST analysis, produces a structured macro read with an explicit action stance, and forces falsification conditions for every conclusion. [Power Structure Debugger](prompts/power-structure-debugger.md) runs Symbol → Narrative → Synthesis — each phase feeding the next — and resolves to a single Cui Bono verdict.
 
 **Adversarial templates** — built to challenge your thinking, not confirm it.  
-[Philosopher Sparring Engine](prompts/philosopher-sparring-engine.md) loads a philosopher's actual intellectual weapons and applies them to your claim. Agreement is structurally forbidden until deconstruction passes. [Dilemma Destroyer](prompts/dilemma-destroyer.md) works 5 ordered stages — surfaces the hidden assumption, destroys compromise, builds a third axis, then *attacks its own solution* before proposing anything.
+[Philosopher Sparring Engine](prompts/philosopher-sparring-engine.md) loads a philosopher's actual intellectual weapons and applies them to your claim. Agreement is structurally forbidden until deconstruction passes. [Dilemma Destroyer](prompts/dilemma-destroyer.md) works 5 ordered stages — surfaces the hidden assumption, destroys compromise, builds a third axis, then *attacks its own solution* before proposing anything. [Paper Deconstruction Engine](prompts/paper-deconstruction-engine.md) refuses to accept an abstract as truth — it identifies the Dominant Variable early, runs a 9-section adversarial teardown, and forces at least two kill conditions before any conclusion is allowed.
 
-What all six share: no conclusion without a kill condition, no claim without a tag, no output that varies by the AI's mood.
+What all seven share: no conclusion without a kill condition, no claim without a tag, no output that varies by the AI's mood.
 
 ---
 
@@ -39,6 +39,7 @@ What all six share: no conclusion without a kill condition, no claim without a t
 | 4 | [Sovereign Lens](prompts/sovereign-lens.md) | Modular — 5 layers, 12 scene presets | AI image generation: combine Base × Camera × Subject × Scene × Fine-tuning to build any shot |
 | 5 | [Philosopher Sparring Engine](prompts/philosopher-sparring-engine.md) | Adversarial template × 3 modes | Summon any philosopher to deconstruct your thinking — agreement not permitted until deconstruction passes |
 | 6 | [Power Structure Debugger](prompts/power-structure-debugger.md) | Structured intelligence engine — 3 phases | Symbol lineage → narrative verification → Cui Bono synthesis |
+| 7 | [Paper Deconstruction Engine](prompts/paper-deconstruction-engine.md) | Adversarial analysis engine — 9 sections | Deconstructs academic papers: separates what is proven from what is overstated; mandatory Dominant Variable and kill conditions |
 
 ---
 
